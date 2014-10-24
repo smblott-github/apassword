@@ -1,0 +1,3 @@
+[submodule "jni/gnupg"]
+	path = jni/gnupg
+	url = git://git.gnupg.org/gnupg.git
